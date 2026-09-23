@@ -1,4 +1,20 @@
-# Questie
+# Questie for WoW Forever (1.60+)
+
+> **Patched for World of Warcraft: Forever 1.60.1 (Interface 16001 / Camelot)**  
+> Pre-configured to load out-of-the-box with zero TOC or file editing required.
+
+### 📥 One-Click Install (No File Changes Needed)
+1. Download **`Questie-v11.38.0-Forever.zip`** from the **[Releases Page](https://github.com/tysongoulding/Questie-Forever/releases/latest)**.
+2. Extract directly into your World of Warcraft AddOns directory:
+   ```text
+   World of Warcraft\_classic_beta_\Interface\AddOns\
+   ```
+   *(The archive automatically extracts directly into `Interface\AddOns\Questie\` — no folder renaming or TOC editing required).*
+3. Launch your game, ensure **Questie** is checked under AddOns, and log in!
+
+---
+
+# Questie Original Documentation
 
 [![Discord](https://img.shields.io/badge/discord-Questie-738bd7)](https://discord.gg/s33MAYKeZd)
 [![Stars](https://img.shields.io/github/stars/Questie/Questie)](https://img.shields.io/github/stars/Questie/Questie)
