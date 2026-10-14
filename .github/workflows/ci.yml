@@ -95,7 +95,7 @@ jobs:
         run: lua cli/validate-${{ matrix.expansion }}.lua
 
       - name: Upload correction files
-        uses: actions/upload-artifact@v7.0.1
+        uses: actions/upload-artifact@v7.0.2
         with:
           name: correction-files-${{ matrix.expansion }}
           path: cli/output/
